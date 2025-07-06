@@ -56,7 +56,11 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
+---
 
-# ▶️ Run the App
+## ▶️ Run the App
+```bash
 streamlit run SMPA.py
-Then open http://localhost:8501 in your browser.
+```
+- Then open http://localhost:8501 in your browser.
